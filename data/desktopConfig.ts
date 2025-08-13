@@ -22,6 +22,7 @@ export const desktopConfig = {
     // favoriteApps: ["todo", "notes"], // Students will modify this array
   },
 
+<<<<<<< HEAD
   wallpaper: {
     type: "gradient", // 'solid' | 'gradient' | 'image'
     primary: "#1e40af",
@@ -34,6 +35,20 @@ export const desktopConfig = {
       // Students add their favorite colors here
     ],
   },
+=======
+  // wallpaper: {
+  //   type: "gradient", // 'solid' | 'gradient' | 'image'
+  //   primary: "#1e40af",
+  //   secondary: "#7c3aed",
+  //   // Students will customize these colors differently
+  //   customColors: [
+  //     "#ef4444", // red
+  //     "#f97316", // orange
+  //     "#eab308", // yellow
+  //     // Students add their favorite colors here
+  //   ],
+  // },
+>>>>>>> 11f5250 (Initial Commit)
 
   apps: [
     {
@@ -48,6 +63,7 @@ export const desktopConfig = {
       // description: "Interactive Git learning guide",
       // shortcuts: ["Ctrl+G", "F1"],
     },
+<<<<<<< HEAD
     {
       id: "todo",
       name: "Todo",
@@ -102,6 +118,62 @@ export const desktopConfig = {
       component: 'ChatApp',
       author: 'Your Name Here', // Students customize this
     },
+=======
+    // {
+    //   id: "todo",
+    //   name: "Todo",
+    //   icon: "✓",
+    //   color: "bg-green-500",
+    //   component: "TodoApp",
+    // },
+    // {
+    //   id: "notes",
+    //   name: "Notes",
+    //   icon: "📝",
+    //   color: "bg-yellow-500",
+    //   component: "NotesApp",
+    // },
+    // {
+    //   id: "gallery",
+    //   name: "Gallery",
+    //   icon: "🖼️",
+    //   color: "bg-purple-500",
+    //   component: "GalleryApp",
+    // },
+    // {
+    //   id: "calculator",
+    //   name: "Calculator",
+    //   icon: "🧮",
+    //   color: "bg-orange-500",
+    //   component: "CalculatorApp",
+    // },
+
+    // EXERCISE APPS - Students will uncomment these to create conflicts
+    // {
+    //   id: 'music-player',
+    //   name: 'Music Player',
+    //   icon: '🎵',
+    //   color: 'bg-pink-500',
+    //   component: 'MusicPlayerApp',
+    //   author: 'Your Name Here', // Students customize this
+    // },
+    // {
+    //   id: 'weather',
+    //   name: 'Weather',
+    //   icon: '🌤️',
+    //   color: 'bg-sky-500',
+    //   component: 'WeatherApp',
+    //   author: 'Your Name Here', // Students customize this
+    // },
+    // {
+    //   id: 'chat',
+    //   name: 'Chat',
+    //   icon: '💬',
+    //   color: 'bg-indigo-500',
+    //   component: 'ChatApp',
+    //   author: 'Your Name Here', // Students customize this
+    // },
+>>>>>>> 11f5250 (Initial Commit)
   ],
 
   // dock: {

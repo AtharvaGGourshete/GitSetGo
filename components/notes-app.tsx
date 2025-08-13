@@ -9,10 +9,17 @@ interface NotesAppProps {
 
 const welcomeNote = `# Welcome to MiniOS Notes! 📝
 
+<<<<<<< HEAD
 **Student Name:** Atharva Ganesh Gourshete
 **Workshop Goal:** To learn Git and Github from scratch
 **Favorite Git Command:** git push -u origin main 
 **Team Role:** Full Stack Developer
+=======
+**Student Name:** [ADD YOUR NAME HERE - STEP 2] 
+**Workshop Goal:** [WHAT DO YOU WANT TO LEARN? - STEP 2]
+**Favorite Git Command:** [YOUR FAVORITE COMMAND - STEP 2]
+**Team Role:** [FRONTEND/BACKEND/FULLSTACK - STEP 2]
+>>>>>>> 11f5250 (Initial Commit)
 
 ---
 
