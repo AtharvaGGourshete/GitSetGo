@@ -78,30 +78,30 @@ export const desktopConfig = {
     },
 
     // EXERCISE APPS - Students will uncomment these to create conflicts
-    // {
-    //   id: 'music-player',
-    //   name: 'Music Player',
-    //   icon: '🎵',
-    //   color: 'bg-pink-500',
-    //   component: 'MusicPlayerApp',
-    //   author: 'Your Name Here', // Students customize this
-    // },
-    // {
-    //   id: 'weather',
-    //   name: 'Weather',
-    //   icon: '🌤️',
-    //   color: 'bg-sky-500',
-    //   component: 'WeatherApp',
-    //   author: 'Your Name Here', // Students customize this
-    // },
-    // {
-    //   id: 'chat',
-    //   name: 'Chat',
-    //   icon: '💬',
-    //   color: 'bg-indigo-500',
-    //   component: 'ChatApp',
-    //   author: 'Your Name Here', // Students customize this
-    // },
+    {
+      id: 'music-player',
+      name: 'Music Player',
+      icon: '🎵',
+      color: 'bg-pink-500',
+      component: 'MusicPlayerApp',
+      author: 'Your Name Here', // Students customize this
+    },
+    {
+      id: 'weather',
+      name: 'Weather',
+      icon: '🌤️',
+      color: 'bg-sky-500',
+      component: 'WeatherApp',
+      author: 'Your Name Here', // Students customize this
+    },
+    {
+      id: 'chat',
+      name: 'Chat',
+      icon: '💬',
+      color: 'bg-indigo-500',
+      component: 'ChatApp',
+      author: 'Your Name Here', // Students customize this
+    },
   ],
 
   // dock: {
