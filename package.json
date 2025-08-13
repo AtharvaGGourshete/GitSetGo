@@ -10,30 +10,40 @@
   },
   "dependencies": {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18",
     "framer-motion": "^11.3.19",
 >>>>>>> 11f5250 (Initial Commit)
+=======
+>>>>>>> 0de7d4f (Enable todo app)
     "@radix-ui/react-dropdown-menu": "^2.0.6",
     "@radix-ui/react-slot": "^1.0.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0de7d4f (Enable todo app)
     "framer-motion": "^11.3.19",
     "lucide-react": "^0.427.0",
     "next": "14.2.5",
     "radix-ui": "^1.4.2",
     "react": "^18",
     "react-dom": "^18",
+<<<<<<< HEAD
 =======
     "lucide-react": "^0.427.0",
 >>>>>>> 11f5250 (Initial Commit)
+=======
+>>>>>>> 0de7d4f (Enable todo app)
     "tailwind-merge": "^2.4.0",
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
+<<<<<<< HEAD
 <<<<<<< HEAD
     "@types/node": "^20",
     "@types/react": "^18",
@@ -45,13 +55,21 @@
     "typescript": "^5"
 =======
     "typescript": "^5",
+=======
+>>>>>>> 0de7d4f (Enable todo app)
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5",
     "postcss": "^8",
     "tailwindcss": "^3.4.17",
+<<<<<<< HEAD
     "eslint": "^8",
     "eslint-config-next": "14.2.5"
 >>>>>>> 11f5250 (Initial Commit)
+=======
+    "typescript": "^5"
+>>>>>>> 0de7d4f (Enable todo app)
   }
 }

@@ -23,6 +23,9 @@ export const desktopConfig = {
   },
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0de7d4f (Enable todo app)
   wallpaper: {
     type: "gradient", // 'solid' | 'gradient' | 'image'
     primary: "#1e40af",
@@ -35,6 +38,7 @@ export const desktopConfig = {
       // Students add their favorite colors here
     ],
   },
+<<<<<<< HEAD
 =======
   // wallpaper: {
   //   type: "gradient", // 'solid' | 'gradient' | 'image'
@@ -49,6 +53,8 @@ export const desktopConfig = {
   //   ],
   // },
 >>>>>>> 11f5250 (Initial Commit)
+=======
+>>>>>>> 0de7d4f (Enable todo app)
 
   apps: [
     {
